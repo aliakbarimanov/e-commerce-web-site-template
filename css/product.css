@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Anybody:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Anybody', cursive;
+    list-style: none;
+}
+
+body{
+    background-color: #d7d7d7;
+    text-align: center;
+}
+
+/* product */
+
+#productImg{
+    margin-top: 80px;
+    height: 500px;
+}
+
+#about-product{
+    font-size: 23px;
+    margin: 50px 0 0 10%;
+    width: 80%;
+}
+
+#description{
+    text-align: start;
+}
+
+#price{
+    text-align: start;
+    margin-top: 20px;
+}
+
+#price a{
+    font-size: 28px;
+    color: #e72323;
+}
